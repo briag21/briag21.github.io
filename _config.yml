@@ -280,7 +280,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
+      show_date: false
       comment: true
   # _talks
   - scope:
