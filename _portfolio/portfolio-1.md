@@ -1,6 +1,6 @@
 ---
-title: "Regression and classification."
-excerpt: "Academic project, by team (third-year undergrad) <br> <br/><img src='/images/projects/iaproj.png'>"
+title: "Predicting Release Years from Audio Features"
+excerpt: "Applied Machine Learning Project · YearPredictionMSD (third-year undergrad) <br> <br/><img src='/images/projects/iaproj.png' style='max-width: 60%'>"
 collection: portfolio
 ---
 
