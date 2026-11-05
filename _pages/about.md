@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi !"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Hi!
 
 I am a first-year Computer Science Master's student at **École Normale Supérieure de Rennes**.
 
