@@ -11,7 +11,7 @@ I am a first-year Computer Science Master's student at **École Normale Supérie
 
 My coursework covers a wide landscape of theoretical and systems computer science, including high-performance computing, operating systems, bioinformatics, category theory, and interactive program proving.
 
-### Research Interests
+## Research Interests
 
 My primary research focus lies in **concurrent programming**. 
 
