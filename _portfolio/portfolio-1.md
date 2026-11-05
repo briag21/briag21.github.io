@@ -1,6 +1,6 @@
 ---
 title: "Regression and classification."
-excerpt: "Academic project, by team (third-year undergrad) 1<br/><img src='/images/projects/iaproj.png'>"
+excerpt: "Academic project, by team (third-year undergrad) <br> <br/><img src='/images/projects/iaproj.png'>"
 collection: portfolio
 ---
 
