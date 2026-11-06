@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Useful links"
+title: "Some (unsorted) useful links"
 permalink: /useful-links/
 author_profile: true
 ---
-
-# Some useful links
 
 [CSES : A great platform to learn classic algorithmic patterns in a competitive way.](https://cses.fi/problemset/)
 
