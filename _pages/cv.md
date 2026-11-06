@@ -14,7 +14,7 @@ Education
 * M.S. in Computer Science, ENS Rennes, 2026-
 * B.S. in Computer Science, Rennes University, 2023-26 (*with highest honours*)
 
-Work experience
+Experiences
 ======
 * All year long 2026-27: Research Project
   * INRIA/Irisa Rennes
