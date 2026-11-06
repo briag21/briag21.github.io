@@ -2,7 +2,7 @@
 layout: archive
 title: "Some (unsorted) useful links"
 permalink: /useful-links/
-author_profile: true
+author_profile: false
 ---
 
 [CSES : A great platform to learn classic algorithmic patterns in a competitive way.](https://cses.fi/problemset/)
