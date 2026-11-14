@@ -230,6 +230,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  popularization:
+    output: true
+    permalinl: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/

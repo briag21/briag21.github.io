@@ -22,7 +22,10 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
+
+  #- title: "Popularization"
+  #  url: /popularization/
+
   - title: "CV"
     url: /cv/
     
